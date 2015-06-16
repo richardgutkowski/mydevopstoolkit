@@ -1,9 +1,9 @@
 # My DevOps toolkit
-Hi there, this is my go to DevOps tools, this is a curated list of open source tools, inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md)
+Hi there, this is my go to DevOps tools, this is a curated list of open source tools, inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md), please note that this list will not list everything as I only list the tools that work for me and I'm either testing or actually actively using in production.
 
 * [Awesome DevOps](#awesome-devops)
-  * [Backups](#backups)
-  * [Cloud Computing](#cloud-computing)
+  * [Public Cloud](#public-cloud)
+  * [PuCloud Computing](#cloud-computing)
   * [Cloud Storage](#cloud-storage)
   * [Configuration Management Database](#configuration-management-database)
   * [Configuration Management](#configuration-management)
@@ -38,19 +38,12 @@ Hi there, this is my go to DevOps tools, this is a curated list of open source t
   * [Books](#books)
   * [Editors](#editors)
   * [Websites](#websites)
-* [Contributing](#contributing)
 
-## Backups
-*Backup software.*
+## Public Cloud
 
-* [Amanda](http://www.amanda.org/) - Client-server model backup tool.
-* [Bacula](http://www.bacula.org) - Another Client-server model backup tool.
-* [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
-* [Burp](http://burp.grke.org/) - Network backup and restore program.
-* [Rsnapshot](http://www.rsnapshot.org/) - Filesystem Snapshotting Utility.
-* [SafeKeep](http://safekeep.sourceforge.net/) - Centralized pull-based backup using `rdiff-backup`.
-* [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
-* [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
+* [DigitalOcean](https://www.digitalocean.com/) - Simple cloud hosting, built for developers and some of the best DIY guides.
+* [AWS](http://aws.amazon.com/) - This behemoth needs no introduction :)
+* [Rackspace](http://www.rackspace.co.uk/cloud) - A formidable contender against AWS
 
 ## Cloud Computing
 
@@ -64,7 +57,6 @@ Hi there, this is my go to DevOps tools, this is a curated list of open source t
 ## Cloud Orchestration
 
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
-* [Salt](http://www.saltstack.com/) - It's written in Python.
 
 ## Cloud Storage
 
