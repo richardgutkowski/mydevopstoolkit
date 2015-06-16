@@ -1,9 +1,8 @@
-# sysadmintools
-My go to sys-admin tools, this is a curated list of open source tools, inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md)
+# My DevOps toolkit
+Hi there, this is my go to DevOps tools, this is a curated list of open source tools, inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin/blob/master/CONTRIBUTING.md)
 
-* [Awesome Sysadmin](#awesome-sysadmin)
+* [Awesome DevOps](#awesome-devops)
   * [Backups](#backups)
-  * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
   * [Cloud Storage](#cloud-storage)
   * [Configuration Management Database](#configuration-management-database)
@@ -53,13 +52,6 @@ My go to sys-admin tools, this is a curated list of open source tools, inspired 
 * [TarSnap](https://www.tarsnap.com/) - Secure backup service with an open-source client.
 * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 
-## Cloning
-*Cloning software.*
-
-* [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
-* [Fog](http://www.fogproject.org/) - Another computer cloning solution.
-* [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
-
 ## Cloud Computing
 
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
@@ -67,7 +59,7 @@ My go to sys-admin tools, this is a curated list of open source tools, inspired 
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
-* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. 
+* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 
 ## Cloud Orchestration
 
@@ -92,19 +84,14 @@ My go to sys-admin tools, this is a curated list of open source tools, inspired 
 *Configuration management tools.*
 
 * [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
-* [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
-* [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
 * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
-* [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
-* [Salt](http://www.saltstack.com/) - It's written in Python.
-* [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
 
 ## Continuous Integration
 *Continuous integration software.*
 
 * [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration.
 * [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
-* [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software.
+* [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - Open source agile build and release management software. Continuous deployment.
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
 
 ## Distributed Filesystems
